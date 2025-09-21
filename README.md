@@ -65,7 +65,7 @@ while True:
 
 #5. Bill
 
-    elif choice == "5
+    elif choice == "5":
        print("\n---- Patient Bill Record ----")
        bed_charge = int(input("Enter bed charge: "))
        electric_charge = int(input("Enter electric charge: "))
